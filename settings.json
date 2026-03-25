@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+    "ip": "WenterSMP.aternos.me",
+    "port": 12999,
     "version": "1.21.1"
   },
   "position": {
@@ -28,11 +28,10 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 500,
+      "repeat-delay": 1000,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Hello I am a Bot by Vatsal",
+        "I was created to keep the server online 24/7"
       ]
     },
     "chat-log": true,
