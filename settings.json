@@ -8,7 +8,7 @@
   "server": {
     "ip": "WenterSMP.aternos.me",
     "port": 12999,
-    "version": "1.21.1"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
